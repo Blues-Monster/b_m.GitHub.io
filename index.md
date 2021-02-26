@@ -6,5 +6,5 @@
 
 ### 个人信息
  - 龚煜捷/男/1999-02
- - 本科/浙江大学/自动化
+ - 本科/浙江大学（不是）/自动化
  - GitHub：https://github.com/Blues-Monster
