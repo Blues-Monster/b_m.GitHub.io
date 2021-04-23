@@ -3,6 +3,7 @@
 ### 联系方式
  - 手机：13605846735
  - Email：Gong-Yujie@outlook.com
+ - <a href="https://space.bilibili.com/364930101">Blues_monster</a>
 
 ### 个人信息
  - 龚煜捷/男/1999-02
