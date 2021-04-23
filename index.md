@@ -3,7 +3,7 @@
 ### 联系方式
  - 手机：13605846735
  - Email：Gong-Yujie@outlook.com
- - bilibili：<a href="https://space.bilibili.com/364930101">Blues_monster</a>
+/// - bilibili：<a href="https://space.bilibili.com/364930101">Blues_monster</a>
  - 微信公众号：S_Z_W_W_D
 
 ### 个人信息
