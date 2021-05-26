@@ -2,7 +2,7 @@
 ### 联系方式
  - 手机：13605846735
  - Email：Gong-Yujie@outlook.com
- - 微信公众号：S_Z_W_W_D![](https://github.com/Blues-Monster/b_m.github.io/blob/main/img/WeChat%20subscription%20number.jpg)
+ - 微信公众号：S_Z_W_W_D ![](https://github.com/Blues-Monster/b_m.github.io/blob/main/img/WeChat%20subscription%20number.jpg)
 
 ### 个人信息
  - 龚煜捷/男/1999-02
@@ -27,7 +27,7 @@
  - 基于树莓派的物联网搭建(从数据读取到数据库搭建到网络服务器连接)
  - 基于python的网页爬取和表单提交
  - 通过unity引擎和社区模型开发[游戏](https://play.unity.com/mg/other/webgl-builds-42268)
- - 微信服务器搭建及自动回复关键字
+ - 微信服务器搭建及简单功能开发
  - 通过arduino开发板实现温湿度控制
 
 ### 学习工作社会经验
