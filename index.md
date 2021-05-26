@@ -4,12 +4,13 @@
  - 手机：13605846735
  - Email：Gong-Yujie@outlook.com
  - 微信公众号：S_Z_W_W_D
+![](https://github.com/Blues-Monster/b_m.github.io/blob/main/img/WeChat%20subscription%20number.jpg)
 
 ### 个人信息
  - 龚煜捷/男/1999-02
  - 一个在学习机器学习路上渐行渐远且目标成为全栈工程师的腼腆小白
  - 本科/浙大宁波理工学院/自动化(前土木工程)
- - GitHub：<a href="https://github.com/Blues-Monster">https://github.com/Blues-Monster</a>
+ - GitHub：[https://github.com/Blues-Monster](https://github.com/Blues-Monster)
  - 爱好：胡思乱想、美食、品酒
  - 讨厌的事：大部分较为单调、枯燥的事
 
@@ -44,6 +45,6 @@
 ### 开发经验
  - 基于树莓派的物联网(从数据读取到数据库搭建到网络服务器连接)
  - 基于python的网页爬取和表单提交
- - 通过unity引擎和社区模型开发<a href="https://play.unity.com/mg/other/webgl-builds-42268">游戏</a>（需要VPN）
+ - 通过unity引擎和社区模型开发[游戏](https://play.unity.com/mg/other/webgl-builds-42268)
  - 微信服务器搭建及自动回复关键字
  - 通过arduino开发板实现温湿度控制
