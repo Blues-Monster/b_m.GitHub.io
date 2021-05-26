@@ -3,8 +3,7 @@
 ### 联系方式
  - 手机：13605846735
  - Email：Gong-Yujie@outlook.com
- - 微信公众号：S_Z_W_W_D
-![](https://github.com/Blues-Monster/b_m.github.io/blob/main/img/WeChat%20subscription%20number.jpg)
+ - 微信公众号：S_Z_W_W_D![image](https://github.com/Blues-Monster/b_m.github.io/blob/main/img/WeChat%20subscription%20number.jpg)
 
 ### 个人信息
  - 龚煜捷/男/1999-02
