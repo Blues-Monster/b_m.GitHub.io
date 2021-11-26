@@ -23,7 +23,8 @@
  - 基于UWP完成手机app开发
 
 ### 开发经验
- - 独立完成全连接神经网络的搭建，实现[对音频流派进行分类](https://github.com/Blues-Monster/sound_Recognition)，并对模型进行分析改进。
+ - 独立完成全连接神经网络的搭建，实现[对音频流派进行分类](https://github.com/Blues-Monster/sound_Recognition)，并对模型进行分析改进
+ - 使用pytorch训练CNN模型，完成对手写数字进行识别
  - 基于树莓派的物联网搭建(从数据读取到数据库搭建到网络服务器连接)
  - 基于python的网页爬取和表单提交
  - 通过unity引擎和社区模型开发[游戏](https://play.unity.com/mg/other/webgl-builds-42268)
@@ -50,3 +51,5 @@
 
 #### 20年9月~21年9月(自动化三年级）：
  - 自动化182信息安全员
+#### 21年9月~（自动化四年级）：
+ - 全国大学生电子设计竞赛
